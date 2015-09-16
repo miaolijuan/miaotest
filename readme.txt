@@ -3,3 +3,4 @@ git is free software.
 under GPL.
 git has a index called stage
 git tracks changes
+after add remote repo
